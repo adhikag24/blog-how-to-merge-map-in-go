@@ -29,4 +29,4 @@ This function will work with any type of maps, that have the same key type, in t
 
 
 ## Conclusion
-Merging maps in Go is a simple task that can be accomplished using the built-in "range" keyword. By iterating over the key-value pairs of one map and adding them to the other map, you can easily merge two maps together. Whether you're working with maps that have the same value type or different value types, Go provides a way to merge them.
+Merging maps in Go is a simple task that can be accomplished using the built-in ```range``` keyword. By iterating over the key-value pairs of one map and adding them to the other map, you can easily merge two maps together. Whether you're working with maps that have the same value type or different value types, Go provides a way to merge them.
